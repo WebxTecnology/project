@@ -10,7 +10,7 @@ const Locations: React.FC = () => {
     {
       name: language === 'ar' ? 'نادي برو جيم' : 'Bro Gym',
       address: language === 'ar' ? 'الشارع الرئيسي فوق اكازيون  القويري العجمي الاسكندريه' : 'Main Street above Akazio - El Agami, Alexandria',
-      schedule: language === 'ar' ? 'الثلاثاء - الاحد: 6:00 م - 2:00 ص' : 'Wednesday - Sunday: 6:00 PM - 2:00 AM',
+      schedule: language === 'ar' ? 'الخميس - الثلاثاء: 8:00 م - 2:00 ص' : 'Thursday - Tuesday: 8:00 PM - 2:00 AM',
       image: gymimg,
     },
   ];
